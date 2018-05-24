@@ -1,7 +1,10 @@
 #------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
-
+plugins:
+  - jekyll-redirect-from
+  
+redirect_from: "nesclic/2018-06-08"
 # Which carpentry is this ("swc", "dc", or "lc")?
 carpentry: "lc"
 
